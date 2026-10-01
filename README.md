@@ -1,6 +1,6 @@
-# <Your name> · FISH 546 project
+# Farr · FISH 546 project
 
-> Replace this block. One paragraph: what question you are asking, what data you are using, and what the final figure will show. It will change over the quarter; that is fine.
+> What percent of Olympic Mudminnow were sampled in the North Olympic Coast? Using eDNA and metabardocing from the NWIFC and it will show how many omm are in the North Olympic Coast compared to other fish species. 
 
 **Course:** FISH 546, Bioinformatics for Environmental Sciences, Autumn 2026 · [course site](https://sr320.github.io/course-fish546-2026/) · [my Project Proposal issue](https://github.com/sr320/course-fish546-2026/issues/<number>)
 
